@@ -4,46 +4,44 @@
 
 # Resources
 
-## Blogs
+## Blogs / Thoughts
 
-- https://frontier.tech/the-cake-framework
-- https://blog.particle.network/chain-abstraction-landscape-report/
-- https://agoric.com/blog/getting-started/getting-started-chain-abstraction
-- https://agoric.com/blog/chain-abstraction/chain-abstraction-five-common-misconceptions
-- https://medium.com/connext/introducing-chain-abstraction-9b8f6e4dc31a
-- https://docs.near.org/build/chain-abstraction/what-is
-- https://www.covalenthq.com/docs/unified-api/guides/what-is-chain-abstraction-simplifying-web3/
-- https://mirror.xyz/blog.murphylabs.eth/V2IPN2Tu_iJYSl1IGpD4flCCD_vChcM2s_SR_QDeBUE
-- https://medium.com/@prophet.one/what-is-chain-abstraction-f86c5aa229a0
-- [Demystifying Chain and Account Abstraction: How Does It Really Work?](https://www.linkedin.com/pulse/demystifying-chain-account-abstraction-how-does-really-nweke-19uvf?utm_source=share&utm_medium=member_android&utm_campaign=share_via)
-- https://www.covalenthq.com/docs/unified-api/guides/what-is-chain-abstraction-simplifying-web3/
-- https://blog.particle.network/chain-abstraction-landscape-report/
+- [Cake Framework by Frontier tech](https://frontier.tech/the-cake-framework)
+- [Chain Abstraction - The Ultimate User Experience? by Nairolf](https://0xnairolf.substack.com/p/chain-abstraction-the-ultimate-user)
+- [First Chain Abstraction Protocol by Socket](https://mirror.xyz/0x6FD2bd90D50eDEe139103454116F252f6F5eC928/zePFPVi6oPI2o_Q6jDrGYn6SBVOGMybnFKQJ-DDVKqc)
+- [Getting started with Chain Abstraction by Agoric](https://agoric.com/blog/getting-started/getting-started-chain-abstraction)
+- [Introducing Chain Abstraction by Connext](https://medium.com/connext/introducing-chain-abstraction-9b8f6e4dc31a)
+- [Navigating the Chain Abstraction Landscape: A Multi-Faceted Analysis by Particle Network](https://blog.particle.network/chain-abstraction-landscape-report/)
+- [On Chain Abstraction by Murphy Labs](https://mirror.xyz/blog.murphylabs.eth/V2IPN2Tu_iJYSl1IGpD4flCCD_vChcM2s_SR_QDeBUE)
+- [What is Chain Abstraction by Near Protocol](https://docs.near.org/build/chain-abstraction/what-is)
+- [Why everyone is wrong about chain abstraction](https://medium.com/@0xOrbLabs/chain-abstraction-providers-and-why-everyone-is-wrong-about-chain-abstraction-2dca20fa7fe3)
 
-## Guides
+## Twitter posts & threads -
 
-- https://github.com/connext/chain-abstraction-integration
-- https://github.com/rhlsthrm/awesome-xerc20
-- https://docs.connext.network/usecases/chain-abstraction/chain-abstraction-guide
+- [A critical point in modular expansion @ayyyeandy](https://x.com/ayyyeandy/status/1786103815923446131)
+- [Chain Abstraction ft. Netflix by @SocketProtocol](https://x.com/SocketProtocol/status/1785314477132468700)
+- [Chain Abstraction vs Cross-Chain by @vaibhavchellani](https://x.com/vaibhavchellani/status/1786131654676828245)
+- [How close are we to Chain Abstraction Future? by @Ruisnakes](https://twitter.com/Ruisnakes/status/1783829446731894808)
 
-## YouTube Videos
+## Videos
 
-- https://youtu.be/qRe-r1-OCyo
-- https://youtu.be/02m53YFmmdE
-- https://www.youtube.com/live/IjRUYxioZLo
-- https://youtu.be/GJUg_SG5cYE
-- https://youtu.be/i9T9bz9hf6M
-- https://www.youtube.com/watch?v=IjRUYxioZLo
-- https://www.youtube.com/watch?v=IHWcpP1JPi0
-- https://www.youtube.com/watch?v=Xf0iPDb2Lwo
-- https://www.youtube.com/watch?v=_-itfeAXSpM
+- [Blockchain Abstraction at Cosmos Seoul](https://www.youtube.com/watch?v=Xf0iPDb2Lwo)
+- [Chain Abstraction Unveiled by Near Protocol](https://youtu.be/02m53YFmmdE?feature=shared)
+- [Cross Chain vs Chain Abstraction at Avail Fireside](https://www.youtube.com/watch?v=ahJnhgRqB7w&t=1084s&ab_channel=Avail)
+- [How Top Dapps Leverage Chain Abstraction](https://youtu.be/EQSH395StFY?si=T-MP9mBF2Qb8uJZb)
+- [Introducing the CAKE framework by Frontier tech](https://www.youtube.com/watch?v=6H0uo2UOIGs)
+- [Introduction to Chain Abstraction by Developer DAO](https://www.youtube.com/watch?v=IjRUYxioZLo)
+- [Modular Chain Abstraction by Celestia](https://www.youtube.com/watch?v=4rofowXig-o&t=62s&ab_channel=NEARProtocol)
+- [Security in a Abstracted World at Chain Abstraction Day](https://www.youtube.com/watch?v=oBUVrWdSRHE&ab_channel=FrontierResearch)
+- [The Chain Abstraction Thesis by Bell Curve](https://www.youtube.com/watch?v=qRe-r1-OCyo)
+- [The World of Chain Abstraction at BUIDL Asia 2024](https://www.youtube.com/watch?v=kSfsRX4VUXQ&ab_channel=Kryptoplanet%5BOfficial%5D)
 
-## Twitter Posts
+## Chain Abstraction Protocols
 
-- https://x.com/ankitchiplunkar/status/1783866446868570163
-- https://x.com/TURNUPDOTXYZ/status/1785577356301606913
-- https://x.com/BanklessHQ/status/1782531860947448226
-- https://x.com/_daonft__/status/1785646460417057025
-- https://x.com/Ancient8_gg/status/1783526587801165951
-- https://x.com/thy_crypto/status/1783852785047408736
-- https://x.com/therollupco/status/1782782728703803698
-- https://x.com/Ruisnakes/status/1783829446731894808
+- [Agoric](https://twitter.com/agoric)
+- [Connext](https://twitter.com/Connext)
+- [Near Protocol](https://twitter.com/NEARProtocol)
+- [Orb Labs](https://twitter.com/0xOrbLabs)
+- [Particle Network](https://twitter.com/ParticleNtwrk)
+- [Socket Protocol](https://twitter.com/socketprotocol)
+- [XION](https://twitter.com/burnt_xion)
