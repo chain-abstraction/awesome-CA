@@ -1,8 +1,11 @@
   <h1 align="center">Chain Abstraction Resources</h1>
   <p align="center">A list of resources for the Chain Abstraction ecosystem.</p>
-  <p align="center">Please check the <a href="CONTRIBUTING.md">contribution guidelines</a> for information on formatting and writing pull requests.</p>
-
+  <p align="center">Please check the <a href="CONTRIBUTING.md">contribution guidelines</a> for information on formatting and writing pull requests.
 # Resources
+
+## Discussions
+
+- [ChainAbstracted Nerds TG group](https://t.me/+QygeBurngS4wODNl)
 
 ## Blogs / Thoughts
 
