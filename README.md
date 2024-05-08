@@ -42,6 +42,7 @@
 
 ## Chain Abstraction Protocols
 
+- [Aarc](https://twitter.com/0xAarc)
 - [Agoric](https://twitter.com/agoric)
 - [Connext](https://twitter.com/Connext)
 - [Near Protocol](https://twitter.com/NEARProtocol)
