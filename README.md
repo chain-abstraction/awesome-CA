@@ -16,7 +16,7 @@
 - [What is Chain Abstraction by Near Protocol](https://docs.near.org/build/chain-abstraction/what-is)
 - [Why everyone is wrong about chain abstraction](https://medium.com/@0xOrbLabs/chain-abstraction-providers-and-why-everyone-is-wrong-about-chain-abstraction-2dca20fa7fe3)
 
-## Twitter posts & threads -
+## Twitter posts & threads
 
 - [A critical point in modular expansion @ayyyeandy](https://x.com/ayyyeandy/status/1786103815923446131)
 - [Chain Abstraction ft. Netflix by @SocketProtocol](https://x.com/SocketProtocol/status/1785314477132468700)
