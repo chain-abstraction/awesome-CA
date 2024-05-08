@@ -11,6 +11,7 @@
 ## Blogs / Thoughts
 
 - [Cake Framework by Frontier tech](https://frontier.tech/the-cake-framework)
+- [Chain Abstraction: Shaping User-Centric Blockchain Interactions](https://paragraph.xyz/@cmtdigital/chain-abstraction)
 - [Chain Abstraction - The Ultimate User Experience? by Nairolf](https://0xnairolf.substack.com/p/chain-abstraction-the-ultimate-user)
 - [First Chain Abstraction Protocol by Socket](https://mirror.xyz/0x6FD2bd90D50eDEe139103454116F252f6F5eC928/zePFPVi6oPI2o_Q6jDrGYn6SBVOGMybnFKQJ-DDVKqc)
 - [Getting started with Chain Abstraction by Agoric](https://agoric.com/blog/getting-started/getting-started-chain-abstraction)
@@ -45,6 +46,7 @@
 - [Aarc](https://twitter.com/0xAarc)
 - [Agoric](https://twitter.com/agoric)
 - [Connext](https://twitter.com/Connext)
+- [Light](https://twitter.com/LightDotSo)
 - [Near Protocol](https://twitter.com/NEARProtocol)
 - [Orb Labs](https://twitter.com/0xOrbLabs)
 - [Particle Network](https://twitter.com/ParticleNtwrk)
