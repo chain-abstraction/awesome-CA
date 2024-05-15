@@ -13,6 +13,7 @@
 - [Cake Framework by Frontier tech](https://frontier.tech/the-cake-framework)
 - [Chain Abstraction: Shaping User-Centric Blockchain Interactions](https://paragraph.xyz/@cmtdigital/chain-abstraction)
 - [Chain Abstraction - The Ultimate User Experience? by Nairolf](https://0xnairolf.substack.com/p/chain-abstraction-the-ultimate-user)
+- [Chain Abstraction on Multiple Levels: Diverse User Experiences Inside Web3’s Evolution by Particle Network and Agoric](https://blog.particle.network/chain-abstraction-levels-user-experience)
 - [First Chain Abstraction Protocol by Socket](https://mirror.xyz/0x6FD2bd90D50eDEe139103454116F252f6F5eC928/zePFPVi6oPI2o_Q6jDrGYn6SBVOGMybnFKQJ-DDVKqc)
 - [Getting started with Chain Abstraction by Agoric](https://agoric.com/blog/getting-started/getting-started-chain-abstraction)
 - [Introducing Chain Abstraction by Connext](https://medium.com/connext/introducing-chain-abstraction-9b8f6e4dc31a)
