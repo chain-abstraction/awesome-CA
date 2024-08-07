@@ -55,6 +55,7 @@
 - [Connext](https://twitter.com/Connext)
 - [Epoch Protocol](https://twitter.com/0xEpochProtocol)
 - [Intentify](https://twitter.com/intentify_eth)
+- [Halliday](https://x.com/hallidayhq)
 - [Light](https://twitter.com/LightDotSo)
 - [Near Protocol](https://twitter.com/NEARProtocol)
 - [Okto](https://twitter.com/okto_web3)
