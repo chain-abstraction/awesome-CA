@@ -31,6 +31,7 @@
 - [Why everyone is wrong about chain abstraction by Orb Labs](https://medium.com/@0xOrbLabs/chain-abstraction-providers-and-why-everyone-is-wrong-about-chain-abstraction-2dca20fa7fe3)
 - [The 0-1 of Chain Abstraction by Shoal Research](https://www.shoal.gg/p/the-0-1-of-chain-abstraction)
 - [The definitive guide to chain abstraction by Blockworks and Particle Network](https://blockworks.co/news/definitive-guide-chain-abstraction)
+- [Omnichain Smart Accounts with ERC-7579 Modules](https://blog.rhinestone.wtf/omnichain-smart-accounts-with-erc-7579-modules-170b21cc5b50)
 
 ## Twitter posts & threads
 
