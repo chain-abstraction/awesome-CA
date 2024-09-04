@@ -68,3 +68,4 @@
 - [Particle Network](https://twitter.com/ParticleNtwrk)
 - [Socket Protocol](https://twitter.com/socketprotocol)
 - [XION](https://twitter.com/burnt_xion)
+- [Paima Engine](https://docs.paimastudios.com)
