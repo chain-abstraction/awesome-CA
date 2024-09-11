@@ -18,10 +18,13 @@
 - [First Chain Abstraction Protocol by Socket](https://mirror.xyz/0x6FD2bd90D50eDEe139103454116F252f6F5eC928/zePFPVi6oPI2o_Q6jDrGYn6SBVOGMybnFKQJ-DDVKqc)
 - [Formally Defining "Chain Abstraction" by Particle Network](https://blog.particle.network/what-is-chain-abstraction-a-formal-definition)
 - [Getting started with Chain Abstraction by Agoric](https://agoric.com/blog/getting-started/getting-started-chain-abstraction)
+- [State of Web3 Fragmentation: Addressing Web3's Biggest Problem by Particle Network](https://blog.particle.network/quantifying-the-impact-of-chain-abstraction-exposing-web3s-inefficiencies/)
 - [Introducing Chain Abstraction by Connext](https://medium.com/connext/introducing-chain-abstraction-9b8f6e4dc31a)
+- [Chain Abstraction vs Intents: New paradigm, or repackaged solutions? by Particle Network](https://blog.particle.network/chain-abstraction-vs-intents)
 - [Introducing a Fully Expressive Orchestration Layer by Okto](https://whitepaper.okto.tech/)
 - [Navigating the Chain Abstraction Landscape: A Multi-Faceted Analysis by Particle Network](https://blog.particle.network/chain-abstraction-landscape-report/)
 - [On Chain Abstraction by Murphy Labs](https://mirror.xyz/blog.murphylabs.eth/V2IPN2Tu_iJYSl1IGpD4flCCD_vChcM2s_SR_QDeBUE)
+- [Implementing Chain Abstraction: The Multi-Layer Framework by Particle Network](https://blog.particle.network/implementing-chain-abstraction-the-multi-layer-framework)
 - [What is Chain Abstraction by Near Protocol](https://docs.near.org/build/chain-abstraction/what-is)
 - [Why everyone is wrong about chain abstraction](https://medium.com/@0xOrbLabs/chain-abstraction-providers-and-why-everyone-is-wrong-about-chain-abstraction-2dca20fa7fe3)
 - [Chain Abstraction - The Final Narrative to Fix the Crypto UX Problem in Hundreds of Blockchains by 4pillars](https://4pillars.io/en/articles/chain-abstraction/public)
@@ -39,6 +42,7 @@
 - [Chain Abstraction ft. Netflix by @SocketProtocol](https://x.com/SocketProtocol/status/1785314477132468700)
 - [Chain Abstraction vs Cross-Chain by @vaibhavchellani](https://x.com/vaibhavchellani/status/1786131654676828245)
 - [How close are we to Chain Abstraction Future? by @Ruisnakes](https://twitter.com/Ruisnakes/status/1783829446731894808)
+- [A Short Reflection: The Chain Abstraction Thesis by @TABASCOweb3](https://x.com/TABASCOweb3/status/1821019229144945145)
 
 ## Videos
 
@@ -53,6 +57,7 @@
 - [Security in a Abstracted World at Chain Abstraction Day](https://www.youtube.com/watch?v=oBUVrWdSRHE&ab_channel=FrontierResearch)
 - [The Chain Abstraction Thesis by Bell Curve](https://www.youtube.com/watch?v=qRe-r1-OCyo)
 - [The World of Chain Abstraction at BUIDL Asia 2024](https://www.youtube.com/watch?v=kSfsRX4VUXQ&ab_channel=Kryptoplanet%5BOfficial%5D)
+- [Exploring Layered Chain Abstraction at Chain Abstraction Day](https://www.youtube.com/watch?v=XL0QFksaX24&pp=ygUeZXRoYW4gZnJhbmNpcyBwYXJ0aWNsZSBuZXR3b3Jr)
 
 ## Chain Abstraction Protocols
 
