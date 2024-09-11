@@ -57,11 +57,13 @@
 - [Security in a Abstracted World at Chain Abstraction Day](https://www.youtube.com/watch?v=oBUVrWdSRHE&ab_channel=FrontierResearch)
 - [The Chain Abstraction Thesis by Bell Curve](https://www.youtube.com/watch?v=qRe-r1-OCyo)
 - [The World of Chain Abstraction at BUIDL Asia 2024](https://www.youtube.com/watch?v=kSfsRX4VUXQ&ab_channel=Kryptoplanet%5BOfficial%5D)
+- [When All You Have is Cosmos, Everything Looks Like a Chain](https://www.youtube.com/watch?v=5biJAkm3FoA)
 - [Exploring Layered Chain Abstraction at Chain Abstraction Day](https://www.youtube.com/watch?v=XL0QFksaX24&pp=ygUeZXRoYW4gZnJhbmNpcyBwYXJ0aWNsZSBuZXR3b3Jr)
 
 ## Chain Abstraction Protocols
 
 - [Aarc](https://twitter.com/0xAarc)
+- [Abstract](https://x.com/AbstractSDK)
 - [Agoric](https://twitter.com/agoric)
 - [Connext](https://twitter.com/Connext)
 - [Epoch Protocol](https://twitter.com/0xEpochProtocol)
