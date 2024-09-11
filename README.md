@@ -65,6 +65,7 @@
 - [Aarc](https://twitter.com/0xAarc)
 - [Abstract](https://x.com/AbstractSDK)
 - [Agoric](https://twitter.com/agoric)
+- [Arcana](https://twitter.com/ArcanaNetwork)
 - [Connext](https://twitter.com/Connext)
 - [Epoch Protocol](https://twitter.com/0xEpochProtocol)
 - [Intentify](https://twitter.com/intentify_eth)
