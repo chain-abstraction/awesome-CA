@@ -31,8 +31,8 @@
 - [Why everyone is wrong about chain abstraction by Orb Labs](https://medium.com/@0xOrbLabs/chain-abstraction-providers-and-why-everyone-is-wrong-about-chain-abstraction-2dca20fa7fe3)
 - [The 0-1 of Chain Abstraction by Shoal Research](https://www.shoal.gg/p/the-0-1-of-chain-abstraction)
 - [The definitive guide to chain abstraction by Blockworks and Particle Network](https://blockworks.co/news/definitive-guide-chain-abstraction)
-- [Boundless Horizons: New Web3 Primitive by CycleNetwork](https://cycle-network.medium.com/boundless-horizons-new-web3-primitive-082192ffc803)
-- [A Universal, Secure and Verifiable Chain Abstraction Architecture by CycleNetwork](https://www.cyclenetwork.io/whitepaper.pdf)
+- [Boundless Horizons: New Web3 Primitive by Cycle Network](https://cycle-network.medium.com/boundless-horizons-new-web3-primitive-082192ffc803)
+- [A Universal, Secure and Verifiable Chain Abstraction Architecture by Cycle Network](https://www.cyclenetwork.io/whitepaper.pdf)
 
 ## Twitter posts & threads
 
