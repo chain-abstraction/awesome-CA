@@ -35,6 +35,9 @@
 - [The 0-1 of Chain Abstraction by Shoal Research](https://www.shoal.gg/p/the-0-1-of-chain-abstraction)
 - [The definitive guide to chain abstraction by Blockworks and Particle Network](https://blockworks.co/news/definitive-guide-chain-abstraction)
 - [Omnichain Smart Accounts with ERC-7579 Modules](https://blog.rhinestone.wtf/omnichain-smart-accounts-with-erc-7579-modules-170b21cc5b50)
+- [Boundless Horizons: New Web3 Primitive by Cycle Network](https://cycle-network.medium.com/boundless-horizons-new-web3-primitive-082192ffc803)
+- [A Universal, Secure and Verifiable Chain Abstraction Architecture by Cycle Network](https://www.cyclenetwork.io/whitepaper.pdf)
+
 
 ## Twitter posts & threads
 
@@ -59,6 +62,9 @@
 - [The World of Chain Abstraction at BUIDL Asia 2024](https://www.youtube.com/watch?v=kSfsRX4VUXQ&ab_channel=Kryptoplanet%5BOfficial%5D)
 - [When All You Have is Cosmos, Everything Looks Like a Chain](https://www.youtube.com/watch?v=5biJAkm3FoA)
 - [Exploring Layered Chain Abstraction at Chain Abstraction Day](https://www.youtube.com/watch?v=XL0QFksaX24&pp=ygUeZXRoYW4gZnJhbmNpcyBwYXJ0aWNsZSBuZXR3b3Jr)
+- [CYCLE NETWORK: BRIDGELESS LIQUIDITY ABSTRACTION VIA CHAIN ABSTRACTION](https://www.youtube.com/watch?v=YU6SFZVgwS8)
+- [MINT ANY CHAIN ASSET FROM ANY CHAIN](https://www.youtube.com/watch?v=NaE4QU_sgc8)
+
 
 ## Chain Abstraction Protocols
 
@@ -67,6 +73,7 @@
 - [Agoric](https://twitter.com/agoric)
 - [Arcana](https://twitter.com/ArcanaNetwork)
 - [Connext](https://twitter.com/Connext)
+- [CycleNetwork](https://x.com/cyclenetwork_GO)
 - [Epoch Protocol](https://twitter.com/0xEpochProtocol)
 - [Intentify](https://twitter.com/intentify_eth)
 - [Halliday](https://x.com/hallidayhq)
