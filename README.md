@@ -27,6 +27,7 @@
 - [Chain Abstraction - The Final Narrative to Fix the Crypto UX Problem in Hundreds of Blockchains by 4pillars](https://4pillars.io/en/articles/chain-abstraction/public)
 - [The definitive guide to chain abstraction by Blockworks](https://blockworks.co/news/definitive-guide-chain-abstraction)
 - [Chain Abstraction - Solving Crypto's Biggest Problem by Messari](https://messari.io/report/chain-abstraction?utm_source=twitter&utm_medium=organic_social&utm_campaign=chain_abstraction&utm_content=research)
+- [Chain Abstraction: A Solution to a Siloed Blockchain Future by DAIC Capital](https://daic.capital/blog/chain-abstraction-explained)
 - [The 0-1 of Chain Abstraction by Shoal Research](https://www.shoal.gg/p/the-0-1-of-chain-abstraction)
 - [The definitive guide to chain abstraction by Blockworks and Particle Network](https://blockworks.co/news/definitive-guide-chain-abstraction)
 - [Chain Abstraction Landscape by ASXN](https://newsletter.asxn.xyz/p/chain-abstraction-landscape)
