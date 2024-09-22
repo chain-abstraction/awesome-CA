@@ -31,13 +31,13 @@
 - [The definitive guide to chain abstraction by Blockworks](https://blockworks.co/news/definitive-guide-chain-abstraction)
 - [Chain Abstraction - Solving Crypto's Biggest Problem by Messari](https://messari.io/report/chain-abstraction?utm_source=twitter&utm_medium=organic_social&utm_campaign=chain_abstraction&utm_content=research)
 - [Chain Abstraction: A Solution to a Siloed Blockchain Future by DAIC Capital](https://daic.capital/blog/chain-abstraction-explained)
-- [Why everyone is wrong about chain abstraction by Orb Labs](https://medium.com/@0xOrbLabs/chain-abstraction-providers-and-why-everyone-is-wrong-about-chain-abstraction-2dca20fa7fe3)
 - [The 0-1 of Chain Abstraction by Shoal Research](https://www.shoal.gg/p/the-0-1-of-chain-abstraction)
 - [The definitive guide to chain abstraction by Blockworks and Particle Network](https://blockworks.co/news/definitive-guide-chain-abstraction)
+- [Chain Abstraction Landscape by ASXN](https://newsletter.asxn.xyz/p/chain-abstraction-landscape)
+- [Chain Abstraction: Five Common Misconceptions by Agoric](https://agoric.com/blog/chain-abstraction/chain-abstraction-five-common-misconceptions)
 - [Omnichain Smart Accounts with ERC-7579 Modules](https://blog.rhinestone.wtf/omnichain-smart-accounts-with-erc-7579-modules-170b21cc5b50)
 - [Boundless Horizons: New Web3 Primitive by Cycle Network](https://cycle-network.medium.com/boundless-horizons-new-web3-primitive-082192ffc803)
 - [A Universal, Secure and Verifiable Chain Abstraction Architecture by Cycle Network](https://www.cyclenetwork.io/whitepaper.pdf)
-
 
 ## Twitter posts & threads
 
