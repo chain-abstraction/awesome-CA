@@ -38,6 +38,8 @@
 - [Omnichain Smart Accounts with ERC-7579 Modules](https://blog.rhinestone.wtf/omnichain-smart-accounts-with-erc-7579-modules-170b21cc5b50)
 - [Boundless Horizons: New Web3 Primitive by Cycle Network](https://cycle-network.medium.com/boundless-horizons-new-web3-primitive-082192ffc803)
 - [A Universal, Secure and Verifiable Chain Abstraction Architecture by Cycle Network](https://www.cyclenetwork.io/whitepaper.pdf)
+- [What is NOT Chain Abstraction?](https://www.decipherclub.com/tag/chain_abstraction/) 
+
 
 ## Twitter posts & threads
 
